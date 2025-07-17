@@ -2,6 +2,9 @@
 
 This project is an end-to-end data analytics pipeline built using **dbt**, powered by a Walmart sales dataset. The pipeline transforms raw transactional data into clean, tested, and documented models ready for BI and reporting.
 
+🧑‍💻 Author
+Built with ❤️ by Shaheryar
+Data Engineering & Analytics enthusiast
 ---
 
 ## 🚀 Tech Stack
