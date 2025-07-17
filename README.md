@@ -17,17 +17,26 @@ Data Engineering & Analytics enthusiast
 ---
 
 ## 📁 Project Structure
-    ecommerce_analytics/
-    ├── models/
-    │ ├── staging/
-    │ │ ├── stg_walmart_raw.sql
-    │ ├── dim_customers.sql
-    │ ├── dim_products.sql
-    │ ├── fct_sales.sql
-    ├── seeds/
-    ├── .gitignore
-    ├── dbt_project.yml
-    ├── README.md
+        walmart-dbt-analytics/
+        │
+        ├── ecommerce_analytics/
+        │   ├── assets/
+        │   │   ├── png1.png
+        │   │   ├── png2.png
+        │   │   ├── png3.png
+        │   ├── analyses/
+        │   ├── macros/
+        │   ├── models/
+        │   ├── seeds/
+        │   ├── snapshots/
+        │   ├── tests/
+        │   ├── README.md
+        │   ├── dbt_project.yml
+        │   └── walmart_BI.pbix
+        │
+        ├── .gitignore
+        └── README.md  ✅ ← root readme
+
 
 
 
