@@ -84,7 +84,7 @@ This page gives a high-level overview of customer behavior and key purchasing pa
 - **City Category B** has the most active buyers (41.5%).
 
 🖼 **Screenshot:**
-![Page 1 - Executive Summary](assets/png1.png) 
+![Page 1 - Executive Summary](ecommerce_analytics/assets/png1.png) 
 
 ---
 
@@ -104,7 +104,7 @@ Focuses on demographic and behavioral breakdowns.
 - Occupation IDs **0, 4, and 17** show the highest purchasing power.
 
 🖼 **Screenshot:**
-![Page 2 - Customer Insights](assets/png2.png)
+![Page 2 - Customer Insights](ecommerce_analytics/assets/png2.png)
 
 ---
 
