@@ -28,4 +28,24 @@ models:
               to: ref('dim_customers')
               field: user_id
 
+  - name: dim_customers
+    description: Contains unique customer information such as age, gender, and location
+    columns:
+      - name: user_id
+        description: Unique customer ID
+      - name: gender
+        description: Gender of the customer
+      - name: age
+        description: Age range category (e.g. 26-35)
+      - name: occupation
+        description: Customer's occupation code
+      - name: city_category
+        description: City classification (A, B, or C)
+      - name: stay_in_current_city_years
+        description: How long the customer has stayed in their current city
+      - name: marital_status
+        description: 0 = Single, 1 = Married
+
+
+
 
